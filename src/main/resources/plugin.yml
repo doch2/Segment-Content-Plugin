@@ -1,0 +1,29 @@
+name: Segment
+version: ${project.version}
+main: com.dochsoft.fullmoon.segment.Segment
+load: POSTWORLD
+authors: [ doch13_ ]
+description: This is YD content plugin 'Segment'
+commands:
+  useAddon:
+    description: useAddon Command
+  roomArea:
+    description: roomArea Command
+  buyRoom:
+    description: buyRoom Command
+  openDoor:
+    description: openDoor Command
+  getAddon:
+    description: getCoupon Command
+  shop:
+    description: Shop Command
+  timer:
+    description: Timer Command
+  tpPreviousLoc:
+    description: Player go to previous location Command
+  openorbuy:
+    description: Choose Room Buy or Open Command
+  getInfoTablet:
+    description: Get Informaion Tablet Command
+  segment:
+    description: Segment Command
